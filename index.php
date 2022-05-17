@@ -1,3 +1,4 @@
+{# clement le bg #}
 <?php
 session_start();
 error_reporting(0);
